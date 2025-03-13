@@ -1,0 +1,20 @@
+{
+  "name": "AIO PWA",
+  "short_name": "AIO PWA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2",
+  "icons": [
+    {
+      "src": "https://ipremios-public.s3.sa-east-1.amazonaws.com/batImg/bat-circle.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://ipremios-public.s3.sa-east-1.amazonaws.com/batImg/bat-circle.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
